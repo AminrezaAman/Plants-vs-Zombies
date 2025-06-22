@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabdab4f-2988-4833-a0f8-65a3c9c74cd3" name="Changes" comment="" />
+    <list default="true" id="aabdab4f-2988-4833-a0f8-65a3c9c74cd3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Plants vs Zombies/Zombies/src/main/java.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Plants vs Zombies/Zombies/src/main/java.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plants vs Zombies/Zombies/src/main/java/Map/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/Plants vs Zombies/Zombies/src/main/java/Map/Cell.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

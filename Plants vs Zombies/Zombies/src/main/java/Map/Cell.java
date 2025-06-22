@@ -8,7 +8,6 @@ import javafx.scene.shape.Rectangle;
 
 import java.io.Serializable;
 
-
 public class Cell extends StackPane {
     private int row , col;
     public  Rectangle border;
