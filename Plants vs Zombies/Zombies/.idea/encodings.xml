@@ -2,9 +2,13 @@
 <project version="4">
   <component name="Encoding">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/save.txt" charset="windows-1256" />
 =======
 >>>>>>> 0368c47 (add plant and a little game loop and add zombie)
+=======
+    <file url="file://$PROJECT_DIR$/save.txt" charset="windows-1256" />
+>>>>>>> c477528 (ry to save)
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
