@@ -59,7 +59,6 @@ public class Cart implements Serializable {
 
     public void startRechargeTimer() {
         isReady = false;
-        timer = 0;
         scheduler = new Timeline(new KeyFrame(Duration.seconds(1) , event -> {
             timer ++;
             if(timer == rechargeTime) {
