@@ -21,7 +21,6 @@ import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class Main extends Application {
     private AnimationTimer gameUpdate;
     private VBox selectedCardsBox;
