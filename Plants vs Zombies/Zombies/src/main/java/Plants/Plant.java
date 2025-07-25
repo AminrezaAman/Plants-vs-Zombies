@@ -2,6 +2,7 @@ package Plants;
 
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+
 import javafx.scene.layout.StackPane;
 
 import java.io.Serializable;
@@ -62,4 +63,5 @@ public abstract class Plant extends StackPane implements Serializable {
     public boolean isAlive() {
         return isAlive;
     }
+
 }

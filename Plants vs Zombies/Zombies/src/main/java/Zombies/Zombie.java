@@ -4,6 +4,7 @@ import Map.GameManager;
 import Map.Sizes;
 import Plants.Plant;
 import javafx.animation.Animation;
+
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.scene.image.Image;
@@ -314,6 +315,7 @@ public class Zombie implements Serializable {
                     break;
             }
         }
+
     }
 
     public ImageView getZombieView() {
@@ -396,4 +398,5 @@ public class Zombie implements Serializable {
     public int getImgDieLen() {
         return imgDieLen;
     }
+
 }

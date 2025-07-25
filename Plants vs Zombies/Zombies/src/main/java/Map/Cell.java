@@ -44,5 +44,6 @@ public class Cell extends StackPane {
 
     public boolean canSetPlant(){
         return (plant == null);
+
     }
 }

@@ -1,6 +1,7 @@
 package Zombies;
 
 import Map.Sizes;
+import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
 import static Map.Cell.cell_size;
@@ -35,5 +36,6 @@ public class ConeheadZombie extends Zombie{
 //        zombieView.setLayoutY(col * cell_size + 30);
 //        run();
 //    }
+
 
 }
